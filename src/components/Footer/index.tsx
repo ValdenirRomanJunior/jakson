@@ -1,5 +1,5 @@
 import { FooterContainer, LogoWrapper, SocialWrapper, TextWrapper } from "./styles";
-import Logo from '../../assets/images/logo-branca-sem-fundo.png';
+import Logo from '../../assets/images/jakson viturino.png';
 import {SlSocialInstagram} from 'react-icons/sl';
 import {FaFacebookF} from 'react-icons/fa';
 import {MdWhatsapp} from 'react-icons/md'
@@ -14,8 +14,8 @@ const Footer = () => {
         </LogoWrapper>
         <TextWrapper>
             <div className="copy-nameBusiness">
-            <span> © 2024</span>
-            <span> Invest Imóveis- Negócios imobiliários</span>
+            <span> © 2025</span>
+            <span> Jakson Imóveis- Negócios imobiliários</span>
             </div>
             <span>CRECI 13694F</span>
         </TextWrapper>

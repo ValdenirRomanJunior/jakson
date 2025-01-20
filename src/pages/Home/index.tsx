@@ -10,7 +10,7 @@ import HouseImage from '../../assets/images/house-image.jpg';
 import RightHouseImage from '../../assets/images/right-image-house.svg';
 import logoHome from '../../assets/images/jakson viturino.png';
 import {FaArrowRight, FaQuoteLeft} from 'react-icons/fa';
-import AgentImage from '../../assets/images/perfil-corretor.png';
+import AgentImage from '../../assets/images/agent.jpeg';
 import {BsArrowRight} from 'react-icons/bs';
 import Question from "../../components/Question";
 import Footer from "../../components/Footer";
