@@ -34,8 +34,8 @@ export const HeaderWrapper = styled.div`
         align-items: center;
     }
       .logo{
-        width:45px !important;
-        height:45px !important;
+        width:55px !important;
+        height:55px !important;
         margin-left:8px;
         object-fit:contain;
         
@@ -75,8 +75,8 @@ export const HeaderWrapper = styled.div`
         height:55px;
 
         .logo{
-            width:50px !important;
-            height:50px !important;
+            width:70px !important;
+            height:70px !important;
             margin-left:8px;
             object-fit:contain;
             

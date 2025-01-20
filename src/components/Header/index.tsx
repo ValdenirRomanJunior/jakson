@@ -2,7 +2,7 @@ import {HeaderContainer,HeaderWrapper,Hambuguer,MenuLogoWrapper,NavIcon,SideBarC
 
 import {Link, createSearchParams, useNavigate} from 'react-router-dom';
 import { useState } from 'react';
-import logo from '../../assets/images/logo-letras-pretas.png';
+import logo from '../../assets/images/jakson viturino.png';
 import {GrFormClose} from 'react-icons/gr';
 import {BsTelephone} from 'react-icons/bs';
 import { MdWhatsapp } from 'react-icons/md';
