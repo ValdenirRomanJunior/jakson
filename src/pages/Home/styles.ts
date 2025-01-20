@@ -32,8 +32,8 @@ export const HomeBannerWrapper = styled.div<{icon:IconType}>`
         justify-content: cener;
 
         .principal-title{
-            width: 33%;
-            heigh: 33%;    
+            width: 45%;
+            heigh: 45%;    
             margin-bottom:5px;
                
         }

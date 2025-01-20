@@ -4,7 +4,7 @@ import styled from "styled-components";
 
 export const HeaderContainer = styled.header`
     width:100%;
-    height:45px;
+    height:65px;
     background-color: ${({theme}) => theme.colors.background};
     display: flex;
     align-items: center;
@@ -23,7 +23,7 @@ export const HeaderContainer = styled.header`
 
 export const HeaderWrapper = styled.div`
     width:92%;
-    height: 45px;
+    height: 65px;
     position: relative;
     display: flex;
     align-items: center;
@@ -34,8 +34,8 @@ export const HeaderWrapper = styled.div`
         align-items: center;
     }
       .logo{
-        width:55px !important;
-        height:55px !important;
+        width:75px !important;
+        height:75px !important;
         margin-left:8px;
         object-fit:contain;
         
@@ -75,7 +75,7 @@ export const HeaderWrapper = styled.div`
         height:55px;
 
         .logo{
-            width:70px !important;
+            width:85px !important;
             height:70px !important;
             margin-left:8px;
             object-fit:contain;
