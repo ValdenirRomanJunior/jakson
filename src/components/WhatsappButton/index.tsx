@@ -5,10 +5,10 @@ const WhatsappButton = () => {
 
 
     return(
-        <WhatsappWrapper href="https://api.whatsapp.com/send?phone=5588993170211">
+        <WhatsappWrapper href="https://api.whatsapp.com/send?phone=557791455292">
                 <img src={WhatsAppIcon} alt="" className="whatsapp-icon"/>
                 <span className="whatsapp-text">Whatsapp</span>
-                <span className="whatsapp-number">(88) 99317-0211</span>
+                <span className="whatsapp-number">(77) 9145-5292</span>
             </WhatsappWrapper>
     )
 

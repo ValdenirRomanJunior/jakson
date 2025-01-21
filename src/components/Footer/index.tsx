@@ -22,7 +22,7 @@ const Footer = () => {
         <SocialWrapper>
         <a href="https://www.facebook.com/ubaldoneto/" ><FaFacebookF className="icon-social-footer"/></a>
              <a href="https://www.instagram.com/imob_invest_ubj/"><SlSocialInstagram className="icon-social-footer"/></a>
-             <a href="https://api.whatsapp.com/send?phone=5588993170211"> <MdWhatsapp className="icon-social-footer"/></a>
+             <a href="https://api.whatsapp.com/send?phone=557791455292"> <MdWhatsapp className="icon-social-footer"/></a>
         </SocialWrapper>
        </FooterContainer>
     )
