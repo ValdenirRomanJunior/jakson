@@ -91,7 +91,7 @@ const Home = () => {
 
             <HomeBannerWrapper id="search" icon={IoMdArrowForward }>
                 <div className="title-search-container">
-                <LazyLoadImage  effect="blur" src={logoHome} alt="principal-title"  className="principal-title"/>                    
+                <h1 className="principal-title">"Conectando pessoas aos seus sonhos"</h1>                    
                 <PseudoSearch/>
                 </div>
        

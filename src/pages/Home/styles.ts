@@ -19,7 +19,7 @@ export const HomeBannerWrapper = styled.div<{icon:IconType}>`
 
     .title-search-container{
         position: absolute;
-        top:60%;
+        top:65%;
         left:50%;
         transform: translate(-50%, -50%);
         width:100%;
@@ -27,14 +27,24 @@ export const HomeBannerWrapper = styled.div<{icon:IconType}>`
         z-index:1;
         
         display: flex;
-        flex-direction: column;
+        flex-direction: column-reverse;
         align-items: center;
         justify-content: cener;
 
         .principal-title{
-            width: 45%;
-            heigh: 45%;    
-            margin-bottom:5px;
+            width:80%;
+              font-family: "Playwrite IN", serif;
+            font-size:14px;
+            text-align: center;
+            position: absolute;
+            bottom:-35%;
+            trasnform:translate(-50%,-50%)
+            left:0%;
+            color:#fff;
+             font-weight: <weight>;
+           
+          
+         
                
         }
 
@@ -121,9 +131,7 @@ export const HomeBannerWrapper = styled.div<{icon:IconType}>`
             justify-content: center;
 
           .principal-title{
-            width: 28%;
-            heigh: 28%;    
-            margin-bottom:20px;
+           
                
         }
         }
